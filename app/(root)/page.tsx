@@ -1,5 +1,5 @@
 import React from "react";
-import ProductList from '@/components/shared/header/product/product-list';
+import ProductList from '@/components/shared/product/product-list';
 import sampleData from '@/db/sample-data';
 
 
